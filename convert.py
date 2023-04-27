@@ -5,8 +5,6 @@ import random
 import random
 
 
-
-
 if __name__ == "__main__":
     orig_stdout = sys.stdout
     w = open("positive.txt", "w")
