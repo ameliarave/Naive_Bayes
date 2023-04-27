@@ -4,7 +4,6 @@ import math
 import random
 
 
-
 def punct(s):
     result = []
     if s[-1] == ",":
